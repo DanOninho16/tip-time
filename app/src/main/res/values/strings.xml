@@ -2,10 +2,11 @@
     <string name="app_name">tip-time</string>
     <string name="ok_service">Ok (15%)</string>
     <string name="service_question">Insira o preço</string>
+    <string name="value">valor</string>
     <string name="how_was_the_service">How was the service?</string>
     <string name="amazing_service">Maravilhoso (20%)</string>
     <string name="good_service">Bom (18%)</string>
-    <string name="round_up_tip">Preço</string>
+    <string name="round_up_tip">Quer arredontar para cima?</string>
     <string name="calculate">Calcular</string>
     <string name="tip_amount">Quantia gorjeta</string>
 </resources>
