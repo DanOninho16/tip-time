@@ -79,4 +79,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@id/calculate_button"
         android:text="Quantidade da gorjeta" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
